@@ -1,5 +1,15 @@
 # NFBSearch-Scalatra #
 
+## Prerequesite
+
+You need to have JDK (Java Development Kit) version 6+.
+
+For Ubuntu:
+
+```sh
+$ sudo apt-get install openjdk-6-jdk
+```
+
 ## Build & Run ##
 
 ```sh
